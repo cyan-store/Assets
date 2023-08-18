@@ -1,0 +1,8 @@
+# Builds
+/bin/*
+!/bin/.gitkeep
+
+# Private
+/products/*
+!/products/.gitkeep
+
