@@ -2,7 +2,6 @@
 /bin/*
 !/bin/.gitkeep
 
-# Private
+# Assets
 /products/*
 !/products/.gitkeep
-
