@@ -5,3 +5,9 @@
 # Assets
 /products/*
 !/products/.gitkeep
+
+/assets/placeholders/*
+!/assets/placeholders/.gitkeep
+
+/assets/site/*
+!/assets/site/.gitkeep
