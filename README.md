@@ -1,4 +1,4 @@
-# Hook
+# Assets
 
 ![go-mod](https://img.shields.io/github/go-mod/go-version/cyan-store/assets) ![go-report](https://goreportcard.com/badge/github.com/cyan-store/assets) ![repo-size](https://img.shields.io/github/repo-size/cyan-store/assets)
 
